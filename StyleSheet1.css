@@ -1,0 +1,28 @@
+﻿body
+{
+}
+h1{
+    color:blue;
+}
+.menu-item{
+    background:#5200b7;
+    color:#fff;
+    cursor:pointer;
+    display:block;
+    margin-bottom:1px;
+    position:relative;
+}
+.menu-item-link{
+    color:#fff;
+    display:block;
+    padding:1rem;
+}
+.submenu{
+    background:#fff;
+    display:none;
+}
+.submenu-item{
+    border-bottom:1px solid #5200b7;
+    color:#222;
+    padding:1rem;
+}
